@@ -13,14 +13,14 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
+| Ontwerpen   | Mockup van portfolio maken                     | 01:00 u             | to do  |
+| ...         | Styling van elementen bepalen                  | 01:00 u             | to do  |
+| Realiseren  | Bestanden aanmaken                             | 00:30 u             | to do  |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
+| Testen      | Applicatie testen                              | 00:15 u             | to do  |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u             | to do  |
 | ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Presenteren | Presenteren aan docent/klant                   | 00:30 u             | to do  |
+| ...         | verbeteren als docent/klant niet tevreden is   | 00:30 u             | to do  |
+| Refecteren  | Reflectiedocument schrijven                    | 01:00 u             | to do  |
