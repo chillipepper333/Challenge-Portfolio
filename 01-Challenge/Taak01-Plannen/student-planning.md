@@ -14,13 +14,14 @@
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:15 u             | af     |
 | Ontwerpen   | Mockup van portfolio maken                     | 01:00 u             | bezig  |
+| ...         | about pagina                                   | 00:30 u             | to do  |
+| ...         | intrests pagina                                | 00:30 u             | to do  |
+| ...         | projects pagina                                | 00:30 u             | to do  |
+| ...         | contact pagina                                 | 00:30 u             | to do  |
 | ...         | Styling van elementen bepalen                  | 01:00 u             | to do  |
 | Realiseren  | Bestanden aanmaken                             | 00:30 u             | to do  |
-| ...         |                                                |                     |        |
 | Testen      | Applicatie testen                              | 00:15 u             | to do  |
-| ...         |                                                |                     |        |
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u             | to do  |
-| ...         |                                                |                     |        |
 | Presenteren | Presenteren aan docent/klant                   | 00:30 u             | to do  |
 | ...         | verbeteren als docent/klant niet tevreden is   | 00:30 u             | to do  |
 | Refecteren  | Reflectiedocument schrijven                    | 01:00 u             | to do  |
