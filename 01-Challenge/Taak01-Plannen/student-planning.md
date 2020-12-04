@@ -13,12 +13,12 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:15 u             | af     |
-| Ontwerpen   | Mockup van portfolio maken                     | 01:00 u             | bezig  |
-| ...         | about pagina                                   | 00:30 u             | to do  |
-| ...         | intrests pagina                                | 00:30 u             | to do  |
-| ...         | projects pagina                                | 00:30 u             | to do  |
-| ...         | contact pagina                                 | 00:30 u             | to do  |
-| ...         | Styling van elementen bepalen                  | 01:00 u             | to do  |
+| Ontwerpen   | Mockup van portfolio maken                     | 00:30 u             | bezig  |
+| ...         | about pagina maken                             | 00:30 u             | to do  |
+| ...         | intrests pagina maken                          | 00:30 u             | to do  |
+| ...         | projects pagina maken                          | 00:30 u             | to do  |
+| ...         | contact pagina maken                           | 00:30 u             | to do  |
+| ...         | Styling van elementen bepalen                  | 00:45 u             | to do  |
 | Realiseren  | Bestanden aanmaken                             | 00:30 u             | to do  |
 | Testen      | Applicatie testen                              | 00:15 u             | to do  |
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u             | to do  |
