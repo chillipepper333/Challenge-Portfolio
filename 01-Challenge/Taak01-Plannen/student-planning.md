@@ -13,7 +13,7 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:15 u             | af     |
-| Ontwerpen   | Mockup van portfolio maken                     | 00:30 u             | bezig  |
+| Ontwerpen   | Mockup van portfolio maken                     | 00:30 u             | af     |
 | ...         | about pagina maken                             | 00:30 u             | to do  |
 | ...         | intrests pagina maken                          | 00:30 u             | to do  |
 | ...         | projects pagina maken                          | 00:30 u             | to do  |
