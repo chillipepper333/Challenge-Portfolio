@@ -25,3 +25,7 @@ ul {
   .active {
     background-color: darkblue;
   }
+  img{
+    display: block;
+    
+  }

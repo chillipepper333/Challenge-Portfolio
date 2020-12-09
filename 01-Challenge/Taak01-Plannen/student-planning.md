@@ -14,10 +14,10 @@
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:15 u             | af     |
 | Ontwerpen   | Mockup van portfolio maken                     | 00:30 u             | af     |
-| ...         | about pagina maken                             | 00:30 u             | to do  |
-| ...         | intrests pagina maken                          | 00:30 u             | to do  |
-| ...         | projects pagina maken                          | 00:30 u             | to do  |
-| ...         | contact pagina maken                           | 00:30 u             | to do  |
+| ...         | about pagina maken                             | 00:30 u             | af     |
+| ...         | intrests pagina maken                          | 00:30 u             | af     |
+| ...         | projects pagina maken                          | 00:30 u             | af     |
+| ...         | contact pagina maken                           | 00:30 u             | af     |
 | ...         | Styling van elementen bepalen                  | 00:45 u             | to do  |
 | Realiseren  | Bestanden aanmaken                             | 00:30 u             | to do  |
 | Testen      | Applicatie testen                              | 00:15 u             | to do  |
