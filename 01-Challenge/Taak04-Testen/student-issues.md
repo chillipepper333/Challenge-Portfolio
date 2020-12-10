@@ -2,5 +2,5 @@
 
 ## Issuelijst
 
-1.meschien een paar spellingsfouten
+1. meschien tekst kleur veranderen
 

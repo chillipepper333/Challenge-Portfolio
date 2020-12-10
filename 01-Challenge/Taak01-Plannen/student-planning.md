@@ -22,6 +22,6 @@
 | Realiseren  | Bestanden aanmaken                             | 00:30 u             | af     |
 | Testen      | Applicatie testen                              | 00:15 u             | af     |
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u             | af     |
-| Presenteren | Presenteren aan docent/klant                   | 00:30 u             | to do  |
-| ...         | verbeteren als docent/klant niet tevreden is   | 00:30 u             | to do  |
+| Presenteren | Presenteren aan docent/klant                   | 00:30 u             | af     |
+| ...         | verbeteren als docent/klant niet tevreden is   | 00:30 u             | af     |
 | Refecteren  | Reflectiedocument schrijven                    | 01:00 u             | to do  |

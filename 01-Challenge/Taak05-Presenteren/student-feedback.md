@@ -6,6 +6,6 @@
 ## Feedback.
 
 - +mooi gestijld
-- -tekst kleur vernaderen 
+- -tekst kleur veranderen 
 - +mooi verzorgd uit
 - +wasbeer is leuke toevoeging
