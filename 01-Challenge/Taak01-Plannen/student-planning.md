@@ -24,4 +24,4 @@
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u             | af     |
 | Presenteren | Presenteren aan docent/klant                   | 00:30 u             | af     |
 | ...         | verbeteren als docent/klant niet tevreden is   | 00:30 u             | af     |
-| Refecteren  | Reflectiedocument schrijven                    | 01:00 u             | to do  |
+| Refecteren  | Reflectiedocument schrijven                    | 00:30 u             | af     |
