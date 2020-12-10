@@ -18,7 +18,7 @@
 | ...         | intrests pagina maken                          | 00:30 u             | af     |
 | ...         | projects pagina maken                          | 00:30 u             | af     |
 | ...         | contact pagina maken                           | 00:30 u             | af     |
-| ...         | Styling van elementen bepalen                  | 00:45 u             | to do  |
+| ...         | Styling van elementen bepalen                  | 00:45 u             | af     |
 | Realiseren  | Bestanden aanmaken                             | 00:30 u             | to do  |
 | Testen      | Applicatie testen                              | 00:15 u             | to do  |
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u             | to do  |

@@ -25,7 +25,16 @@ ul {
   .active {
     background-color: darkblue;
   }
-  img{
-    display: block;
-    
-  }
+
+  .project{
+    background-color: rgb(17, 17, 219);
+    border:solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+img{
+  display: block;
+  float: left;
+  margin: 10px;
+}

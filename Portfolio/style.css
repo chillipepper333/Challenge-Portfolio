@@ -1,3 +1,14 @@
 body{
     background-color: lightblue;
 }
+
+
+
+.project{
+    background-color: lightcoral;
+    border:solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+
