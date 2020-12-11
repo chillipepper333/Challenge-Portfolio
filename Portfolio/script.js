@@ -2,7 +2,7 @@
     var naam = prompt("vul je naam hier in");
     if (naam != null) {
       document.getElementById("demo").innerHTML =
-      "Hallo " + naam +". En welkom bij mijn portofolio." ;
+    "Hallo " + naam +". En welkom bij mijn portofolio." ;
     }
 
 
